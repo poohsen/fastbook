@@ -3,6 +3,7 @@ models/
 tmp/
 *.bak
 *.pkl
+!export.pkl
 bears/
 __pycache__/
 .last_checked
